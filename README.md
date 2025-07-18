@@ -12,7 +12,7 @@ By introducing automation into the workflow, we help save valuable faculty time,
 
 ## 💻 Tech Stack
 
-- **Frontend**: TypeScript (React)
+- **Frontend**: TypeScript (Next)
 - **Backend**: Python (FastAPI)
 
 ## 🧠 Why It Matters
